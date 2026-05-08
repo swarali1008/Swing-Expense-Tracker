@@ -125,6 +125,6 @@ Prediction    : ₹350
 
 <div align="center">
 
-built with java swing ⚡
+Built with Java Swing with Dedication ⚡
 
 </div>
